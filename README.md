@@ -3,7 +3,7 @@
 2、`wubi091.schema.yaml` is the configuration file  
    `wubi091.dict.yaml` is the charactor encoding list  
    `wubi091.extended.dict.yaml` is the phrase list  
-   `weasel.custom.yaml` is the Candidate frame skin  
+   `weasel.custom.yaml` is the Candidate frame skin file  
 3、To personalise, follow instructions in `wubi091.schema.yaml`
 ****
 1、本方案为基于Rime输入法引擎的中文五笔输入方案
@@ -12,8 +12,8 @@
    `wubi091.extended.dict.yaml`为自定义词库  
    `weasel.custom.yaml`为候选框皮肤  
 3、如需更改默认配置，请按照`wubi091.schema.yaml`中注释进行  
-# 作者信息
-1、091编码方案作者：行走的风景  
+# 其他信息
+1、编码方案作者：行走的风景  
 2、点儿词库作者：晓览  
 3、点儿词库版本：2021冬
 ****
