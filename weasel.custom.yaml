@@ -1,0 +1,23 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.13.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sat Feb 23 18:44:02 2019"
+  rime_version: 1.4.0
+patch:
+  "style/color_scheme": aLIEz    # 这项用于选中下面定义的新方案
+  "preset_color_schemes/aLIEz":  # 在配色方案列表里加入标识为 aLIEz 的新方案
+    name: 力战兼悲歌／aLIEz
+    author: 力战兼悲歌〔807303359@qq.com〕
+    back_color: 0xa47d4f             # 背景
+    border_color: 0xa47d4f           # 边框
+    text_color: 0xffffff             # 编码行文字
+    hilited_text_color: 0xffffff     # 编码行编码
+    hilited_back_color: 0xa47d4f     # 编码行背景
+    hilited_candidate_text_color: 0xffffff   # 待选文字
+    hilited_candidate_back_color: 0xa47d4f   # 待选背景
+    candidate_text_color: 0xffffff   # 其它候选文字
+    comment_text_color: 0xffffff     # 提示
+  "style/horizontal": true
+  "style/display_tray_icon": false
+  "style/inline_preedit": true
