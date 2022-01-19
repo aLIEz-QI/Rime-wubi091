@@ -21,7 +21,7 @@
 ```
 patch:
   schema_list:
-    - schema: wubi091
+    - {schema: wubi091}
 ```
    to `default.custom.yaml` in Rime's user folder.<br>
 4. Deploy. Then press control+` and choose wubi091 to start to use.<br>
@@ -34,7 +34,7 @@ patch:
 ```
 patch:
   schema_list:
-    - schema: wubi091
+    - {schema: wubi091}
 ```
 4. 重新部署后用Control+` 或 F4 (仅Windows) 叫出〔方案选单〕，选中「091五笔」。<br>
 # 其他信息
